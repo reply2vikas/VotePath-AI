@@ -169,7 +169,7 @@ VITE_FIREBASE_PROJECT_ID=...
 | Testing | Jest 30, Supertest, mongodb-memory-server |
 | Security | Helmet, CORS, Rate Limiting, bcrypt, mongo-sanitize |
 
----
+
 
 ## 📜 License
 
